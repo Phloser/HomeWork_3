@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Лозовский Филипп . Home work № 3
+
 namespace HomeWork_3
 {
 
